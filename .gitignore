@@ -1,0 +1,38 @@
+# Ignore all!
+*
+
+# Do not ignore:
+!.gitignore
+!LICENSE
+!README.md
+!SECURITY.md
+
+!/.github/
+!/.github/**
+
+!/.vscode/
+!/.vscode/**
+
+###############################
+#  Default Configuration Included
+
+!/defaultconfigs/
+!/defaultconfigs/**
+
+###############################
+#  World Included
+
+!/saves/
+
+!/saves/HelloWorld
+!/saves/HelloWorld/**
+
+# exlude player data
+/saves/**/playerdata/
+/saves/**/stats/
+/saves/**/advancements/
+/saves/**/session.lock
+/saves/**/level.dat
+/saves/**/level.dat_mcr
+/saves/**/logs/
+/saves/**/generated/

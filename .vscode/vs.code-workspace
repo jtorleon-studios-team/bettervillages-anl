@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "name": "Modpack Sources",
+      "path": ".."
+    },
+    {
+      "name": "Datapacks",
+      "path": "../datapacks"
+    },
+    {
+      "name": "Resourcepacks",
+      "path": "../resourcepacks"
+    },
+    {
+      "name": "Saves",
+      "path": "../saves"
+    },
+    {
+      "name": "Config",
+      "path": "../config"
+    },
+    {
+      "name": "Config [DEFAULT]",
+      "path": "../defaultconfigs"
+    },
+    {
+      "name": "Github",
+      "path": "../.github"
+    },
+    {
+      "name": "Vscode",
+      "path": "../.vscode"
+    }
+  ],
+  "settings": {}
+}
