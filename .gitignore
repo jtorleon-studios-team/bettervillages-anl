@@ -6,12 +6,16 @@
 !LICENSE
 !README.md
 !SECURITY.md
+!CHANGELOG.md
 
 !/.github/
 !/.github/**
 
 !/.vscode/
 !/.vscode/**
+
+!/build/
+!/build/**
 
 ###############################
 #  Default Configuration Included
